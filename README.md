@@ -1,8 +1,6 @@
 # scratchandwin
 
-A new Flutter project.
-
-## Getting Started
+<img src="https://github.com/shivanigupta19/User-Interface-Random/blob/master/Images/Scratch%20and%20win.jpeg?raw=false" width="30%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 This project is a starting point for a Flutter application.
 
